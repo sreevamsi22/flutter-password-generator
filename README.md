@@ -1,4 +1,4 @@
-# 🔐 Flutter Password Generator
+# 🔐  Password Generator using Flutter
 
 A simple and secure **Flutter password generator app** that allows users to generate strong passwords based on customizable rules such as length, character types, and special characters.
 
